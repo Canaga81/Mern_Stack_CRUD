@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    padding: 25px 0;
+}
+
+header a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.logo a {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+nav a {
+    margin-left: 25px;
+}
